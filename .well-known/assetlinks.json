@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.smartdriverapp",
+      "sha256_cert_fingerprints": [
+        "8A:69:DB:3F:C4:A6:8A:57:74:65:56:9F:91:DE:CA:B0:03:92:8E:57:12:F7:92:00:8D:0F:E7:FE:42:7D:C1:0C"
+      ]
+    }
+  }
+]
